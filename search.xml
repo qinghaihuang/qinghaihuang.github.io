@@ -1,30 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title><![CDATA[我还是想说点什么]]></title>
-    <url>%2Fqinghaihuang.coding.net%2F2017%2F10%2F16%2FsaySomething%2F</url>
-    <content type="text"><![CDATA[第二次见到你的我因为第一次，我只看到了你的背影，然后就… 关于电影我非常喜欢这部电影，喜欢这个镜头，更不用说那句感天动地的 曾经有一份真诚的爱情放在我面前，我没有珍惜，等我失去的时候我才后悔莫及，人世间最痛苦的事莫过于此。如果上天能够给我一个再来一次的机会，我会对那个女孩子说三个字：我爱你。如果非要在这份爱上加上一个期限，我希望是…… 我太懒了，未完待续》》》]]></content>
-      <categories>
-        <category>彼女</category>
-      </categories>
-      <tags>
-        <tag>有生之年系列</tag>
-        <tag>彼女</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title><![CDATA[祝你生日快乐]]></title>
-    <url>%2Fqinghaihuang.coding.net%2F2017%2F09%2F27%2Fherbirthday%2F</url>
-    <content type="text"><![CDATA[123有个女孩叫小敏今天是她的“十八岁”生日大家祝她生日快乐吧！ 如果有人看到这里，那他/她应该还爱我吧]]></content>
-      <categories>
-        <category>彼女</category>
-      </categories>
-      <tags>
-        <tag>彼女</tag>
-        <tag>誕生日</tag>
-      </tags>
-  </entry>
-  <entry>
     <title><![CDATA[欢迎来到被诅咒的黑珍珠号！]]></title>
     <url>%2Fqinghaihuang.coding.net%2F2017%2F06%2F09%2FfirstBlog%2F</url>
     <content type="text"><![CDATA[杰克船长的黑珍珠号起航啦，快上船！ 名字来源这个不用多说了，加海迷应该都知道，《加勒比海盗:黑珍珠的诅咒》是杰克船长成为万人迷的开篇作。 最近恰逢《加勒比海盗5：死无对证》上映(本人非剧透狗)，加上最近发现的Hexo+NexT新天地，心血来潮，决定以该博客平台为基础，搭建一个有本船长个人特色的博客空间，请查看本博客详细搭建过程. 回看加勒比海盗：黑珍珠的诅咒第一次看我还记得第一次看是在初中那会电影频道看到的，别问本船长为什么没在电影院看（2003年那会儿我刚上小学） 那时候胆子还比较小，都不敢一个人看月光下的sangshi呵呵 不过还是有萌的 当时自己看的时候情形… 回看心情那当然是无比激动啊！！！情怀满满像小麻雀，不对是船长致敬！！！ 最后本船长像你扔了一只猴子，，，]]></content>
@@ -70,8 +46,8 @@
         <category>hexo</category>
       </categories>
       <tags>
-        <tag>教程</tag>
         <tag>hexo</tag>
+        <tag>教程</tag>
         <tag>bash</tag>
       </tags>
   </entry>
