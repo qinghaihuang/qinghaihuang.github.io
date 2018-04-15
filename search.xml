@@ -27,7 +27,7 @@
   <entry>
     <title><![CDATA[本博客搭建过程]]></title>
     <url>%2Fqinghaihuang.coding.net%2F2017%2F06%2F05%2Fhexo-building%2F</url>
-    <content type="text"><![CDATA[安装前提 简介hexo是一个快速、简洁且高效的基于Node.js的博客框架。Hexo 使用 Markdown（或其他渲染引擎）解析文章，在几秒内，即可利用靓丽的主题生成静态网页。 安装环境 Node.js Git 具体安装细节请参考官方文档Hexo. 搭建过程安装hexo打开Git bash命令行，输入 1$ cd install -g hexo-cli 需要注意的是目前最新版Node.js是自带npm包管理工具的，且全局安装位置默认位于C:\Users\&lt;username&gt;\AppData\Roaming\npm下的。 建站安装 Hexo 完成后，请执行下列命令，Hexo 将会在指定文件夹中新建所需要的文件。123$ hexo init &lt;folder&gt;$ cd &lt;folder&gt;$ npm install 新建完成后，指定文件夹的目录如下:12345678.├── _config.yml├── package.json├── scaffolds├── source| ├── _drafts| └── _posts└── themes 主题配置hexo官方默认主题是landscape，可以参考教你定制Hexo的landscape打造自己的主题 - 简书来美化默认主题，当然个性化的你肯定不会满足于此的，hexo提供了130多种可定制化主题，任君挑选。这里本船长选择的是简约大气的NexT主题,安装方式也很简单。 两行命令搞定12$ cd &lt;folder&gt;$ git clone https://github.com/iissnan/hexo-theme-next themes/next 第三方服务]]></content>
+    <content type="text"><![CDATA[Hexo+GitHub/Coding.me简易博客搭建过程 简介&emsp;&emsp;hexo是一个快速、简洁且高效的基于Node.js的博客框架。Hexo 使用 Markdown（或其他渲染引擎）解析文章，在几秒内，即可利用靓丽的主题生成静态网页。 本人安装环境 Node.js Git cmder 搭建过程安装hexo打开Git bash命令行，输入 1cd install -g hexo-cli ※需要注意的是目前最新版Node.js是自带npm包管理工具的，且全局安装位置默认位于C:\Users\&lt;username&gt;\AppData\Roaming\npm下的。可以通过以下命令将其修改到Node.js安装目录 12npm config set prefix “C:\Program Files\nodejs\node_global”npm config set cache “C:\Program Files\nodejs\node_cache” 确认修改后可以输入命令查看配置 1npm config ls 建站安装 Hexo 完成后，请执行下列命令，Hexo 将会在指定文件夹中新建所需要的文件。 123hexo init &lt;folder&gt;cd &lt;folder&gt;npm install 新建完成后，指定文件夹的目录如下: 12345678.├── _config.yml├── package.json├── scaffolds├── source| ├── _drafts| └── _posts└── themes 主题配置&emsp;&emsp;hexo官方默认主题是landscape，可以参考教你定制Hexo的landscape打造自己的主题 - 简书来美化默认主题，当然个性化的你肯定不会满足于此的，hexo提供了130多种可定制化主题，任君挑选。 &emsp;&emsp;这里本船长选择的是简约大气的NexT主题,安装方式也很简单。 两行命令搞定 12cd &lt;folder&gt;git clone https://github.com/iissnan/hexo-theme-next themes/next 第三方服务※具体安装细节请参考官方文档Hexo]]></content>
       <categories>
         <category>hexo</category>
       </categories>
@@ -46,8 +46,8 @@
         <category>hexo</category>
       </categories>
       <tags>
-        <tag>教程</tag>
         <tag>hexo</tag>
+        <tag>教程</tag>
         <tag>bash</tag>
       </tags>
   </entry>
