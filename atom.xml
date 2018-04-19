@@ -54,16 +54,15 @@
     <link href="https://qinghai_huang.coding.me/qinghaihuang.coding.net/2017/06/07/markdown/"/>
     <id>https://qinghai_huang.coding.me/qinghaihuang.coding.net/2017/06/07/markdown/</id>
     <published>2017-06-07T03:45:54.000Z</published>
-    <updated>2018-04-15T08:44:17.013Z</updated>
+    <updated>2018-04-19T13:21:17.958Z</updated>
     
-    <content type="html"><![CDATA[<p> ##前言<br>第一次触电大概是半年前，那时候项目需要使用到Github，然后就被那个熟悉的不能熟悉README.md深深吸引了，感觉这个格式非常适用于生产模式。在这个“无主题，不颜值”的时代，Markdown让作者们只需要关注自己的生产内容，无论是程序猿们还是媒体人，都可以在这种文档实现自己想要的效果。<br><a id="more"></a></p>
-<p> ##优势</p>
-<p> ###就切身体验而言，它<br>-书写过程流程<br>-跨平台<br>-对程序猿非常友好<br><br><br>更多请查看<a href="https://sspai.com/post/25137" target="_blank" rel="noopener">认识与入门 Markdown - 少数派</a></p>
+    <content type="html"><![CDATA[<h2 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h2><p>第一次触电大概是半年前，那时候项目需要使用到Github，然后就被那个熟悉的不能熟悉README.md深深吸引了，感觉这个格式非常适用于生产模式。在这个“无主题，不颜值”的时代，Markdown让作者们只需要关注自己的生产内容，无论是程序猿们还是媒体人，都可以在这种文档实现自己想要的效果。<br><a id="more"></a></p>
+<h2 id="优势"><a href="#优势" class="headerlink" title="优势"></a>优势</h2><h3 id="就切身体验而言，它"><a href="#就切身体验而言，它" class="headerlink" title="就切身体验而言，它"></a>就切身体验而言，它</h3><p>-书写过程流程<br>-跨平台<br>-对程序猿非常友好<br><br><br>更多请查看<a href="https://sspai.com/post/25137" target="_blank" rel="noopener">认识与入门 Markdown - 少数派</a></p>
 ]]></content>
     
     <summary type="html">
     
-      &lt;p&gt; ##前言&lt;br&gt;第一次触电大概是半年前，那时候项目需要使用到Github，然后就被那个熟悉的不能熟悉README.md深深吸引了，感觉这个格式非常适用于生产模式。在这个“无主题，不颜值”的时代，Markdown让作者们只需要关注自己的生产内容，无论是程序猿们还是媒体人，都可以在这种文档实现自己想要的效果。&lt;br&gt;
+      &lt;h2 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot; title=&quot;前言&quot;&gt;&lt;/a&gt;前言&lt;/h2&gt;&lt;p&gt;第一次触电大概是半年前，那时候项目需要使用到Github，然后就被那个熟悉的不能熟悉README.md深深吸引了，感觉这个格式非常适用于生产模式。在这个“无主题，不颜值”的时代，Markdown让作者们只需要关注自己的生产内容，无论是程序猿们还是媒体人，都可以在这种文档实现自己想要的效果。&lt;br&gt;
     
     </summary>
     
