@@ -2,7 +2,7 @@
 <search>
   <entry>
     <title><![CDATA[欢迎来到被诅咒的黑珍珠号！]]></title>
-    <url>%2Fqinghaihuang.coding.net%2F2017%2F06%2F09%2FfirstBlog%2F</url>
+    <url>%2Fqinghaihuang.github.io%2F2017%2F06%2F09%2FfirstBlog%2F</url>
     <content type="text"><![CDATA[杰克船长的黑珍珠号起航啦，快上船”!” 名字来源这个不用多说了，加海迷应该都知道，《加勒比海盗:黑珍珠的诅咒》是杰克船长成为万人迷的开篇作.最近恰逢《加勒比海盗5：死无对证》上映(本人非剧透狗)，加上最近发现的Hexo+NexT新天地，心血来潮，决定以该博客平台为基础，搭建一个有本船长个人特色 的博客空间，请查看本博客详细搭建过程. 回看加勒比海盗：黑珍珠的诅咒第一次看我还记得第一次看是在初中那会电影频道看到的，别问本船长为什么没在电影院看（2003年那会儿我刚上小学）那时候胆子还比较小，都不敢一个人看月光下的sangshi呵呵丧尸猴了解一下，qin当时自己看的时候情形… 回看心情那当然是无比激动啊！！！情怀满满像小麻雀，不对是船长致敬！！！最后本船长像你扔了一只猴子，，，]]></content>
       <categories>
         <category>电影</category>
@@ -14,7 +14,7 @@
   </entry>
   <entry>
     <title><![CDATA[MarkDown学习笔记]]></title>
-    <url>%2Fqinghaihuang.coding.net%2F2017%2F06%2F07%2Fmarkdown%2F</url>
+    <url>%2Fqinghaihuang.github.io%2F2017%2F06%2F07%2Fmarkdown%2F</url>
     <content type="text"><![CDATA[前言第一次触电大概是半年前，那时候项目需要使用到Github，然后就被那个熟悉的不能熟悉README.md深深吸引了，感觉这个格式非常适用于生产模式。在这个“无主题，不颜值”的时代，Markdown让作者们只需要关注自己的生产内容，无论是程序猿们还是媒体人，都可以在这种文档实现自己想要的效果。 优势就切身体验而言，它-书写过程流程-跨平台-对程序猿非常友好更多请查看认识与入门 Markdown - 少数派]]></content>
       <categories>
         <category>学习笔记</category>
@@ -26,7 +26,7 @@
   </entry>
   <entry>
     <title><![CDATA[本博客搭建过程]]></title>
-    <url>%2Fqinghaihuang.coding.net%2F2017%2F06%2F05%2Fhexo-building%2F</url>
+    <url>%2Fqinghaihuang.github.io%2F2017%2F06%2F05%2Fhexo-building%2F</url>
     <content type="text"><![CDATA[Hexo+GitHub/Coding.me简易博客搭建过程 简介&emsp;&emsp;hexo是一个快速、简洁且高效的基于Node.js的博客框架。Hexo 使用 Markdown（或其他渲染引擎）解析文章，在几秒内，即可利用靓丽的主题生成静态网页。 本人安装环境 Node.js Git cmder 搭建过程安装hexo打开Git bash命令行，输入 1cd install -g hexo-cli ※需要注意的是目前最新版Node.js是自带npm包管理工具的，且全局安装位置默认位于C:\Users\&lt;username&gt;\AppData\Roaming\npm下的。可以通过以下命令将其修改到Node.js安装目录 12npm config set prefix “C:\Program Files\nodejs\node_global”npm config set cache “C:\Program Files\nodejs\node_cache” 确认修改后可以输入命令查看配置 1npm config ls 建站安装 Hexo 完成后，请执行下列命令，Hexo 将会在指定文件夹中新建所需要的文件。 123hexo init &lt;folder&gt;cd &lt;folder&gt;npm install 新建完成后，指定文件夹的目录如下: 12345678.├── _config.yml├── package.json├── scaffolds├── source| ├── _drafts| └── _posts└── themes 主题配置&emsp;&emsp;hexo官方默认主题是landscape，可以参考教你定制Hexo的landscape打造自己的主题 - 简书来美化默认主题，当然个性化的你肯定不会满足于此的，hexo提供了130多种可定制化主题，任君挑选。 &emsp;&emsp;这里本船长选择的是简约大气的NexT主题,安装方式也很简单。 两行命令搞定 12cd &lt;folder&gt;git clone https://github.com/iissnan/hexo-theme-next themes/next 第三方服务※具体安装细节请参考官方文档Hexo]]></content>
       <categories>
         <category>hexo</category>
@@ -40,7 +40,7 @@
   </entry>
   <entry>
     <title><![CDATA[Hello World]]></title>
-    <url>%2Fqinghaihuang.coding.net%2F2017%2F06%2F04%2Fhello-world%2F</url>
+    <url>%2Fqinghaihuang.github.io%2F2017%2F06%2F04%2Fhello-world%2F</url>
     <content type="text"><![CDATA[Welcome to Hexo! This is your very first post. Check documentation for more info. If you get any problems when using Hexo, you can find the answer in troubleshooting or you can ask me on GitHub. Quick StartCreate a new post1$ hexo new "My New Post" More info: Writing Run server1$ hexo server More info: Server Generate static files1$ hexo generate More info: Generating Deploy to remote sites1$ hexo deploy More info: Deployment]]></content>
       <categories>
         <category>hexo</category>
