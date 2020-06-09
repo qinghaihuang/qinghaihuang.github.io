@@ -1,6 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title><![CDATA[springCloud学习笔记]]></title>
+    <url>%2Fqinghaihuang.github.io%2F2020%2F06%2F09%2FspringCloud%2F</url>
+    <content type="text"><![CDATA[工欲善其事，必先利其器环境搭建先贴上我的构建环境 IDEA2020.1（此版本maven依赖有点小问题，稍后说明） Maven 3.6.3 （最新版） JDK 1.8.0_131 待续。。。]]></content>
+      <categories>
+        <category>springCloud</category>
+      </categories>
+      <tags>
+        <tag>笔记</tag>
+        <tag>springCloud</tag>
+        <tag>microService</tag>
+      </tags>
+  </entry>
+  <entry>
     <title><![CDATA[吟游诗人-陈奕迅]]></title>
     <url>%2Fqinghaihuang.github.io%2F2020%2F06%2F04%2F%E5%90%9F%E6%B8%B8%E8%AF%97%E4%BA%BA-%E9%99%88%E5%A5%95%E8%BF%85%2F</url>
     <content type="text"><![CDATA[沉默的夜太黑 闭上眼睛画面浮现怎么睡月光不敌雨水 数着绵羊都可以流眼泪 镜子里面是谁 是敢于冒险的玫瑰 把书本打开翻到某一回 出走一回深蓝的天很美 到处飘着鲜花芬芳的香味 心旷神怡滋味自己终于可以真切体会 陪伴着我有谁 有吟游诗人的贴心安慰 不愁寂寞的我就不需要 后退 你喜欢不停游走 到不同地方演奏我喜欢拖你的手 幻想天长地久 故事尽头 总有告别的时候千言万语上心头 却又怎么开口还记得 你说世界美好事情真的特别多只是很容易擦肩而过无论是星星的闪烁 快乐的生活都要主动伸出双手去掌握勇敢的去表达过至少视野更开阔理直气壮很大声的说无论是一刻的软弱 还是懦弱都可以去挣脱只不过回到现实一切都变得冷漠 你喜欢不停游走 到不同地方演奏我喜欢拖你的手 幻想天长地久 故事尽头 总有告别的时候 千言万语上心头 却又怎么开口 还记得 你说世界美好事情真的特别多只是很容易擦肩而过无论是星星的闪烁 快乐的生活都要主动伸出双手去掌握勇敢的去表达过至少视野更开阔理直气壮很大声的说无论是一刻的软弱 还是懦弱都可以去挣脱只不过回到现实一切都变得冷漠 还记得 你说世界美好事情真的特别多只是很容易擦肩而过无论是星星的闪烁 快乐的生活都要主动伸出双手去掌握勇敢的去表达过至少视野更开阔理直气壮很大声的说无论是一刻的软弱 还是懦弱都可以去挣脱 只不过回到现实一切都变得冷漠]]></content>
@@ -57,8 +70,8 @@
         <category>hexo</category>
       </categories>
       <tags>
-        <tag>教程</tag>
         <tag>hexo</tag>
+        <tag>教程</tag>
         <tag>bash</tag>
       </tags>
   </entry>

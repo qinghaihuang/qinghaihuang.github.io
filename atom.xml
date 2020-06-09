@@ -6,7 +6,7 @@
   <link href="/qinghaihuang.github.io/atom.xml" rel="self"/>
   
   <link href="https://qinghaihuang.github.io/"/>
-  <updated>2020-06-04T15:27:47.505Z</updated>
+  <updated>2020-06-09T14:17:11.639Z</updated>
   <id>https://qinghaihuang.github.io/</id>
   
   <author>
@@ -15,6 +15,37 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>springCloud学习笔记</title>
+    <link href="https://qinghaihuang.github.io/2020/06/09/springCloud/"/>
+    <id>https://qinghaihuang.github.io/2020/06/09/springCloud/</id>
+    <published>2020-06-09T13:54:01.200Z</published>
+    <updated>2020-06-09T14:17:11.639Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="工欲善其事，必先利其器"><a href="#工欲善其事，必先利其器" class="headerlink" title="工欲善其事，必先利其器"></a>工欲善其事，必先利其器</h2><h3 id="环境搭建"><a href="#环境搭建" class="headerlink" title="环境搭建"></a>环境搭建</h3><p>先贴上我的构建环境</p><ul><li>IDEA2020.1（此版本maven依赖有点小问题，稍后说明）  </li><li>Maven 3.6.3 （最新版）</li><li>JDK 1.8.0_131</li></ul><a id="more"></a><p>待续。。。  </p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;h2 id=&quot;工欲善其事，必先利其器&quot;&gt;&lt;a href=&quot;#工欲善其事，必先利其器&quot; class=&quot;headerlink&quot; title=&quot;工欲善其事，必先利其器&quot;&gt;&lt;/a&gt;工欲善其事，必先利其器&lt;/h2&gt;&lt;h3 id=&quot;环境搭建&quot;&gt;&lt;a href=&quot;#环境搭建&quot; class=&quot;headerlink&quot; title=&quot;环境搭建&quot;&gt;&lt;/a&gt;环境搭建&lt;/h3&gt;&lt;p&gt;先贴上我的构建环境&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;IDEA2020.1（此版本maven依赖有点小问题，稍后说明）  &lt;/li&gt;
+&lt;li&gt;Maven 3.6.3 （最新版）&lt;/li&gt;
+&lt;li&gt;JDK 1.8.0_131&lt;/li&gt;
+&lt;/ul&gt;
+    
+    </summary>
+    
+      <category term="springCloud" scheme="https://qinghaihuang.github.io/categories/springCloud/"/>
+    
+    
+      <category term="笔记" scheme="https://qinghaihuang.github.io/tags/%E7%AC%94%E8%AE%B0/"/>
+    
+      <category term="springCloud" scheme="https://qinghaihuang.github.io/tags/springCloud/"/>
+    
+      <category term="microService" scheme="https://qinghaihuang.github.io/tags/microService/"/>
+    
+  </entry>
   
   <entry>
     <title>吟游诗人-陈奕迅</title>
@@ -142,9 +173,9 @@
       <category term="hexo" scheme="https://qinghaihuang.github.io/categories/hexo/"/>
     
     
-      <category term="教程" scheme="https://qinghaihuang.github.io/tags/%E6%95%99%E7%A8%8B/"/>
-    
       <category term="hexo" scheme="https://qinghaihuang.github.io/tags/hexo/"/>
+    
+      <category term="教程" scheme="https://qinghaihuang.github.io/tags/%E6%95%99%E7%A8%8B/"/>
     
       <category term="bash" scheme="https://qinghaihuang.github.io/tags/bash/"/>
     
