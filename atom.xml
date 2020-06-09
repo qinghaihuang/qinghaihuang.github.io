@@ -39,11 +39,11 @@
       <category term="springCloud" scheme="https://qinghaihuang.github.io/categories/springCloud/"/>
     
     
-      <category term="笔记" scheme="https://qinghaihuang.github.io/tags/%E7%AC%94%E8%AE%B0/"/>
-    
       <category term="springCloud" scheme="https://qinghaihuang.github.io/tags/springCloud/"/>
     
       <category term="microService" scheme="https://qinghaihuang.github.io/tags/microService/"/>
+    
+      <category term="笔记" scheme="https://qinghaihuang.github.io/tags/%E7%AC%94%E8%AE%B0/"/>
     
   </entry>
   
@@ -113,9 +113,9 @@
       <category term="学习笔记" scheme="https://qinghaihuang.github.io/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
     
     
-      <category term="Markdown" scheme="https://qinghaihuang.github.io/tags/Markdown/"/>
-    
       <category term="笔记" scheme="https://qinghaihuang.github.io/tags/%E7%AC%94%E8%AE%B0/"/>
+    
+      <category term="Markdown" scheme="https://qinghaihuang.github.io/tags/Markdown/"/>
     
   </entry>
   
@@ -173,9 +173,9 @@
       <category term="hexo" scheme="https://qinghaihuang.github.io/categories/hexo/"/>
     
     
-      <category term="hexo" scheme="https://qinghaihuang.github.io/tags/hexo/"/>
-    
       <category term="教程" scheme="https://qinghaihuang.github.io/tags/%E6%95%99%E7%A8%8B/"/>
+    
+      <category term="hexo" scheme="https://qinghaihuang.github.io/tags/hexo/"/>
     
       <category term="bash" scheme="https://qinghaihuang.github.io/tags/bash/"/>
     
