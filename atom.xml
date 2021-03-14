@@ -6,7 +6,7 @@
   <link href="/qinghaihuang.github.io/atom.xml" rel="self"/>
   
   <link href="https://qinghaihuang.github.io/"/>
-  <updated>2020-06-09T14:17:11.639Z</updated>
+  <updated>2021-03-14T15:02:10.134Z</updated>
   <id>https://qinghaihuang.github.io/</id>
   
   <author>
@@ -15,6 +15,32 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>日本語能力試験N2について</title>
+    <link href="https://qinghaihuang.github.io/2021/03/14/n2_test/"/>
+    <id>https://qinghaihuang.github.io/2021/03/14/n2_test/</id>
+    <published>2021-03-14T14:30:41.269Z</published>
+    <updated>2021-03-14T15:02:10.134Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="网上报名安排如下"><a href="#网上报名安排如下" class="headerlink" title="网上报名安排如下"></a>网上报名安排如下</h2><p><a href="https://imgtu.com/i/6BECan" target="_blank" rel="noopener"><img src="https://s3.ax1x.com/2021/03/14/6BECan.png" alt="6BECan.png"></a><br><a id="more"></a></p><p>考试流程以及时间  </p><ul><li>文字・文法+読解 105分钟  </li><li>聴解 50分钟</li></ul><p>皆さん、お戦いがんばんります＾_＾　　</p><h2 id="真题摸底考试测试数据一览※保持更新"><a href="#真题摸底考试测试数据一览※保持更新" class="headerlink" title="真题摸底考试测试数据一览※保持更新"></a>真题摸底考试测试数据一览※保持更新</h2><table><thead><tr><th style="text-align:left">回目</th><th style="text-align:left">测试日期</th><th style="text-align:left">点数</th><th style="text-align:left">实际用时</th></tr></thead><tbody><tr><td style="text-align:left">一回目</td><td style="text-align:left">2021/3/13</td><td style="text-align:left">102点数</td><td style="text-align:left">2h17min</td></tr></tbody></table>]]></content>
+    
+    <summary type="html">
+    
+      &lt;h2 id=&quot;网上报名安排如下&quot;&gt;&lt;a href=&quot;#网上报名安排如下&quot; class=&quot;headerlink&quot; title=&quot;网上报名安排如下&quot;&gt;&lt;/a&gt;网上报名安排如下&lt;/h2&gt;&lt;p&gt;&lt;a href=&quot;https://imgtu.com/i/6BECan&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;&lt;img src=&quot;https://s3.ax1x.com/2021/03/14/6BECan.png&quot; alt=&quot;6BECan.png&quot;&gt;&lt;/a&gt;&lt;br&gt;
+    
+    </summary>
+    
+      <category term="日本語" scheme="https://qinghaihuang.github.io/categories/%E6%97%A5%E6%9C%AC%E8%AA%9E/"/>
+    
+    
+      <category term="日本語" scheme="https://qinghaihuang.github.io/tags/%E6%97%A5%E6%9C%AC%E8%AA%9E/"/>
+    
+      <category term="N2" scheme="https://qinghaihuang.github.io/tags/N2/"/>
+    
+      <category term="メモ" scheme="https://qinghaihuang.github.io/tags/%E3%83%A1%E3%83%A2/"/>
+    
+  </entry>
   
   <entry>
     <title>springCloud学习笔记</title>

@@ -1,6 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title><![CDATA[日本語能力試験N2について]]></title>
+    <url>%2Fqinghaihuang.github.io%2F2021%2F03%2F14%2Fn2_test%2F</url>
+    <content type="text"><![CDATA[网上报名安排如下 考试流程以及时间 文字・文法+読解 105分钟 聴解 50分钟 皆さん、お戦いがんばんります＾_＾ 真题摸底考试测试数据一览※保持更新 回目 测试日期 点数 实际用时 一回目 2021/3/13 102点数 2h17min]]></content>
+      <categories>
+        <category>日本語</category>
+      </categories>
+      <tags>
+        <tag>日本語</tag>
+        <tag>N2</tag>
+        <tag>メモ</tag>
+      </tags>
+  </entry>
+  <entry>
     <title><![CDATA[springCloud学习笔记]]></title>
     <url>%2Fqinghaihuang.github.io%2F2020%2F06%2F09%2FspringCloud%2F</url>
     <content type="text"><![CDATA[工欲善其事，必先利其器环境搭建先贴上我的构建环境 IDEA2020.1（此版本maven依赖有点小问题，稍后说明） Maven 3.6.3 （最新版） JDK 1.8.0_131 待续。。。]]></content>
