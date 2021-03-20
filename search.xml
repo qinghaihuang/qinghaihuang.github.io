@@ -42,16 +42,8 @@
 <td align="left">102点数</td>
 <td align="left">2h11min</td>
 </tr>
-<tr>
-<td align="left">※做对题数/总题数</td>
-<td align="left"></td>
-<td align="left"></td>
-<td align="left"></td>
-<td align="left"></td>
-<td align="left"></td>
-<td align="left"></td>
-</tr>
 </tbody></table>
+<p>※做对题数/总题数  </p>
 ]]></content>
       <categories>
         <category>日本語</category>
@@ -223,8 +215,8 @@
         <category>hexo</category>
       </categories>
       <tags>
-        <tag>教程</tag>
         <tag>hexo</tag>
+        <tag>教程</tag>
         <tag>bash</tag>
       </tags>
   </entry>
