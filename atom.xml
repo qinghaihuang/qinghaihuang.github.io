@@ -45,9 +45,9 @@
     <link href="https://qinghaihuang.github.io/2021/03/14/n2_test/"/>
     <id>https://qinghaihuang.github.io/2021/03/14/n2_test/</id>
     <published>2021-03-14T14:30:41.269Z</published>
-    <updated>2021-03-20T09:41:58.139Z</updated>
+    <updated>2021-03-27T10:00:40.393Z</updated>
     
-    <content type="html"><![CDATA[<h2 id="网上报名安排如下"><a href="#网上报名安排如下" class="headerlink" title="网上报名安排如下"></a>网上报名安排如下</h2><p><a href="https://imgtu.com/i/6BECan"><img src="https://s3.ax1x.com/2021/03/14/6BECan.png" alt="6BECan.png"></a></p><span id="more"></span><p>考试流程以及时间  </p><ul><li>文字・文法+読解 105分钟  </li><li>聴解 50分钟</li></ul><p>皆さん、一緒にお戦いがんばんりましょう＾_＾　　</p><h2 id="真题摸底考试测试数据一览※保持更新"><a href="#真题摸底考试测试数据一览※保持更新" class="headerlink" title="真题摸底考试测试数据一览※保持更新"></a>真题摸底考试测试数据一览※保持更新</h2><table><thead><tr><th align="left">回目</th><th align="left">测试日期</th><th align="left">文字</th><th align="left">読解</th><th align="left">聴解</th><th align="left">点数</th><th align="left">实际用时</th></tr></thead><tbody><tr><td align="left">一回目</td><td align="left">2021/3/13</td><td align="left">31/54</td><td align="left">14/21</td><td align="left">15/32</td><td align="left">102点数</td><td align="left">2h17min</td></tr><tr><td align="left">二回目</td><td align="left">2021/3/20</td><td align="left">35/54</td><td align="left">11/21</td><td align="left">17/32</td><td align="left">102点数</td><td align="left">2h11min</td></tr></tbody></table><p>※做对题数/总题数  </p>]]></content>
+    <content type="html"><![CDATA[<h2 id="网上报名安排如下"><a href="#网上报名安排如下" class="headerlink" title="网上报名安排如下"></a>网上报名安排如下</h2><p><a href="https://imgtu.com/i/6BECan"><img src="https://s3.ax1x.com/2021/03/14/6BECan.png" alt="6BECan.png"></a></p><span id="more"></span><p>考试流程以及时间  </p><ul><li>文字・文法+読解 105分钟  </li><li>聴解 50分钟</li></ul><p>皆さん、一緒にお戦いがんばんりましょう＾_＾　　</p><h2 id="真题摸底考试测试数据一览※保持更新"><a href="#真题摸底考试测试数据一览※保持更新" class="headerlink" title="真题摸底考试测试数据一览※保持更新"></a>真题摸底考试测试数据一览※保持更新</h2><table><thead><tr><th align="left">回目</th><th align="left">試験日付</th><th align="left">文字</th><th align="left">読解</th><th align="left">聴解</th><th align="left">採点</th><th align="left">試験時間</th></tr></thead><tbody><tr><td align="left">一回目</td><td align="left">2021/3/13</td><td align="left">31/54</td><td align="left">14/21</td><td align="left">15/32</td><td align="left">102点／180点</td><td align="left">2h17min</td></tr><tr><td align="left">二回目</td><td align="left">2021/3/20</td><td align="left">35/54</td><td align="left">11/21</td><td align="left">17/32</td><td align="left">102点／180点</td><td align="left">2h11min</td></tr><tr><td align="left">三回目</td><td align="left">2020/3/27</td><td align="left">30/53</td><td align="left">10/21</td><td align="left">14/32</td><td align="left">86点／180点</td><td align="left">2h27min</td></tr></tbody></table><p>※做对题数/总题数  </p>]]></content>
     
     
     <summary type="html">&lt;h2 id=&quot;网上报名安排如下&quot;&gt;&lt;a href=&quot;#网上报名安排如下&quot; class=&quot;headerlink&quot; title=&quot;网上报名安排如下&quot;&gt;&lt;/a&gt;网上报名安排如下&lt;/h2&gt;&lt;p&gt;&lt;a href=&quot;https://imgtu.com/i/6BECan&quot;&gt;&lt;img src=&quot;https://s3.ax1x.com/2021/03/14/6BECan.png&quot; alt=&quot;6BECan.png&quot;&gt;&lt;/a&gt;&lt;/p&gt;</summary>
@@ -70,7 +70,7 @@
     <link href="https://qinghaihuang.github.io/2020/06/09/springCloud/"/>
     <id>https://qinghaihuang.github.io/2020/06/09/springCloud/</id>
     <published>2020-06-09T13:54:01.200Z</published>
-    <updated>2020-06-09T14:17:11.639Z</updated>
+    <updated>2021-03-23T13:54:40.554Z</updated>
     
     <content type="html"><![CDATA[<h2 id="工欲善其事，必先利其器"><a href="#工欲善其事，必先利其器" class="headerlink" title="工欲善其事，必先利其器"></a>工欲善其事，必先利其器</h2><h3 id="环境搭建"><a href="#环境搭建" class="headerlink" title="环境搭建"></a>环境搭建</h3><p>先贴上我的构建环境</p><ul><li>IDEA2020.1（此版本maven依赖有点小问题，稍后说明）  </li><li>Maven 3.6.3 （最新版）</li><li>JDK 1.8.0_131</li></ul><span id="more"></span><p>待续。。。  </p>]]></content>
     
@@ -84,7 +84,7 @@
     
     
     
-    <category term="springCloud" scheme="https://qinghaihuang.github.io/categories/springCloud/"/>
+    <category term="java" scheme="https://qinghaihuang.github.io/categories/java/"/>
     
     
     <category term="笔记" scheme="https://qinghaihuang.github.io/tags/%E7%AC%94%E8%AE%B0/"/>
@@ -214,9 +214,9 @@
     <category term="hexo" scheme="https://qinghaihuang.github.io/categories/hexo/"/>
     
     
-    <category term="hexo" scheme="https://qinghaihuang.github.io/tags/hexo/"/>
-    
     <category term="教程" scheme="https://qinghaihuang.github.io/tags/%E6%95%99%E7%A8%8B/"/>
+    
+    <category term="hexo" scheme="https://qinghaihuang.github.io/tags/hexo/"/>
     
     <category term="bash" scheme="https://qinghaihuang.github.io/tags/bash/"/>
     
