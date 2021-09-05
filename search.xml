@@ -1,6 +1,60 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>Happy birthday Lilisa ┌iii┐</title>
+    <url>/2021/09/05/happy%20birthday/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>确定不点开看看ma  </p>
+<span id="more"></span>
+
+        <div id="aplayer-hhyKHNjm" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
+            <pre class="aplayer-lrc-content"></pre>
+        </div>
+        <script>
+          var ap = new APlayer({
+            element: document.getElementById("aplayer-hhyKHNjm"),
+            narrow: false,
+            autoplay: true,
+            showlrc: false,
+            music: {
+              title: "Happy Birthday",
+              author: "群星",
+              url: "/music/happy birthday.mp3",
+              pic: "/images/happy birthday_2.jpg",
+              lrc: ""
+            }
+          });
+          window.aplayers || (window.aplayers = []);
+          window.aplayers.push(ap);
+        </script>
+<p>落俗虽不可避免，但浪漫至死不渝，祝宁永远十八岁！</p>
+<p>PS：盗图虽然可耻，但你能拿我怎样（溜了溜了</p>
+]]></content>
+      <categories>
+        <category>她</category>
+      </categories>
+      <tags>
+        <tag>美少女</tag>
+        <tag>干饭人</tag>
+        <tag>撸猫狂魔</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>瀑布流相册demo</title>
+    <url>/2021/09/05/gallery%20test/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p><font color=#FFFFFF>我是一行隐藏的小可爱</font></p>
+<span id="more"></span>
+<p><div class="justified-gallery"><div><img alt="1" src="/images/gallery-1.jpg" data-src="/images/gallery-1.jpg" data-fancybox="gallery"></div><div><img alt="1" src="/images/gallery-2.jpg" data-src="/images/gallery-2.jpg" data-fancybox="gallery"></div><div><img alt="1" src="/images/gallery-3.jpg" data-src="/images/gallery-3.jpg" data-fancybox="gallery"></div><div><img alt="1" src="/images/gallery-4.jpg" data-src="/images/gallery-4.jpg" data-fancybox="gallery"></div><div><img alt="1" src="/images/gallery-5.jpg" data-src="/images/gallery-5.jpg" data-fancybox="gallery"></div><div><img alt="1" src="/images/gallery-6.jpg" data-src="/images/gallery-6.jpg" data-fancybox="gallery"></div><div><img alt="1" src="/images/gallery-7.jpg" data-src="/images/gallery-7.jpg" data-fancybox="gallery"></div><div><img alt="1" src="/images/gallery-8.jpg" data-src="/images/gallery-8.jpg" data-fancybox="gallery"></div><div><img alt="1" src="/images/gallery-9.jpg" data-src="/images/gallery-9.jpg" data-fancybox="gallery"></div><div><img alt="1" src="/images/gallery-10.jpg" data-src="/images/gallery-10.jpg" data-fancybox="gallery"></div><div><img alt="1" src="/images/gallery-12.jpg" data-src="/images/gallery-12.jpg" data-fancybox="gallery"></div><div><img alt="1" src="/images/gallery-13.jpg" data-src="/images/gallery-13.jpg" data-fancybox="gallery"></div><div><img alt="1" src="/images/gallery-14.jpg" data-src="/images/gallery-14.jpg" data-fancybox="gallery"></div><div><img alt="1" src="/images/gallery-15.jpg" data-src="/images/gallery-15.jpg" data-fancybox="gallery"></div></p>
+
+            </div></p>
+]]></content>
+      <categories>
+        <category>图片</category>
+      </categories>
+      <tags>
+        <tag>壁纸</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>We Are!</title>
     <url>/2021/03/17/onepiece_1/</url>
     <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h2 id="歌词大意"><a href="#歌词大意" class="headerlink" title="歌词大意"></a>歌词大意</h2><p>We Are!(《海贼王》动漫主题曲) - OP组合</p>
@@ -24,9 +78,8 @@
   <entry>
     <title>日本語能力試験N2について</title>
     <url>/2021/03/14/n2_test/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><span id="more"></span>
-
-<h2 id="网上报名安排如下"><a href="#网上报名安排如下" class="headerlink" title="网上报名安排如下"></a>网上报名安排如下</h2><p><a href="https://imgtu.com/i/6BECan"><img src="https://s3.ax1x.com/2021/03/14/6BECan.png" alt="6BECan.png"></a></p>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h2 id="网上报名安排如下图"><a href="#网上报名安排如下图" class="headerlink" title="网上报名安排如下图"></a>网上报名安排如下图</h2><span id="more"></span>
+<p><a href="https://imgtu.com/i/6BECan"><img src="https://s3.ax1x.com/2021/03/14/6BECan.png" alt="6BECan.png"></a></p>
 <p>考试流程以及时间  </p>
 <ul>
 <li>文字・文法+読解 105分钟  </li>
@@ -109,14 +162,15 @@
   <entry>
     <title>吟游诗人-陈奕迅</title>
     <url>/2020/06/04/%E5%90%9F%E6%B8%B8%E8%AF%97%E4%BA%BA-%E9%99%88%E5%A5%95%E8%BF%85/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><span id="more"></span>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p><font color=#FFFFFF>我是一行隐藏的小可爱</font></p>
+<span id="more"></span>
 
-        <div id="aplayer-xlkRxZCO" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
+        <div id="aplayer-WkZYjdEr" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
             <pre class="aplayer-lrc-content"></pre>
         </div>
         <script>
           var ap = new APlayer({
-            element: document.getElementById("aplayer-xlkRxZCO"),
+            element: document.getElementById("aplayer-WkZYjdEr"),
             narrow: false,
             autoplay: true,
             showlrc: false,
@@ -147,9 +201,10 @@
       </tags>
   </entry>
   <entry>
-    <title>杰克船长的黑珍珠号起航啦，快上船!</title>
+    <title>杰克回来了</title>
     <url>/2017/06/09/firstBlog/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><span id="more"></span>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>老伙计们，黑珍珠号起航啦，快上船!</p>
+<span id="more"></span>
 <h3 id="名字来源"><a href="#名字来源" class="headerlink" title="名字来源"></a>名字来源</h3><p>这个不用多说了，加海迷应该都知道，<a href="https://movie.douban.com/subject/1298070/">《加勒比海盗:黑珍珠的诅咒》</a>是杰克船长成为万人迷的开篇作.<br><img src="https://s2.ax1x.com/2020/03/09/89L7uV.jpg" alt="89L7uV.jpg"><br>最近恰逢<a href="https://movie.douban.com/subject/6311303/">《加勒比海盗5：死无对证》</a>上映(本人非剧透狗)，加上最近发现的Hexo+NexT新天地，心血来潮，决定以该博客平台为基础，搭建一个有本船长个人特色 的博客空间<br>，请查看<a href="https://qinghai_huang.coding.me/qinghaihuang.coding.net/2017/06/09/hexo-building/#more">本博客详细搭建过程</a>.</p>
 <h2 id="回看加勒比海盗：黑珍珠的诅咒"><a href="#回看加勒比海盗：黑珍珠的诅咒" class="headerlink" title="回看加勒比海盗：黑珍珠的诅咒"></a>回看加勒比海盗：黑珍珠的诅咒</h2><h3 id="第一次看"><a href="#第一次看" class="headerlink" title="第一次看"></a>第一次看</h3><p>我还记得第一次看是在初中那会电影频道看到的，别问本船长为什么没在电影院看（2003年那会儿我刚上小学）<br><img src="https://s2.ax1x.com/2020/03/09/89L49s.jpg" alt="89L49s.jpg"><br>那时候胆子还比较小，都不敢一个人看月光下的sangshi呵呵<br><img src="https://s2.ax1x.com/2020/03/09/89L53n.jpg" alt="89L53n.jpg"><br>丧尸猴了解一下，qin<br><img src="https://s2.ax1x.com/2020/03/09/89LIcq.jpg" alt="89LIcq.jpg"><br>当时自己看的时候情形…<br><img src="https://s2.ax1x.com/2020/03/09/89vjZ6.gif" alt="89vjZ6.gif"></p>
 <h3 id="回看心情"><a href="#回看心情" class="headerlink" title="回看心情"></a>回看心情</h3><p>那当然是无比激动啊！！！情怀满满<br>像小麻雀，不对是船长致敬！！！<br><img src="https://s2.ax1x.com/2020/03/09/89LcB8.jpg" alt="89LcB8.jpg"><br>最后本船长像你扔了一只猴子，，，<br><img src="https://s2.ax1x.com/2020/03/09/89v5IU.gif" alt="89v5IU.gif"></p>

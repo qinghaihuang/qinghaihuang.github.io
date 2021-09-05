@@ -6,7 +6,7 @@
   <link href="https://qinghaihuang.github.io/atom.xml" rel="self"/>
   
   <link href="https://qinghaihuang.github.io/"/>
-  <updated>2021-09-05T08:52:33.562Z</updated>
+  <updated>2021-09-05T10:28:01.847Z</updated>
   <id>https://qinghaihuang.github.io/</id>
   
   <author>
@@ -15,6 +15,52 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Happy birthday Lilisa ┌iii┐</title>
+    <link href="https://qinghaihuang.github.io/2021/09/05/happy%20birthday/"/>
+    <id>https://qinghaihuang.github.io/2021/09/05/happy%20birthday/</id>
+    <published>2021-09-05T10:13:32.534Z</published>
+    <updated>2021-09-05T10:28:01.847Z</updated>
+    
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>确定不点开看看ma  </p><span id="more"></span>        <div id="aplayer-hhyKHNjm" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">            <pre class="aplayer-lrc-content"></pre>        </div>        <script>          var ap = new APlayer({            element: document.getElementById("aplayer-hhyKHNjm"),            narrow: false,            autoplay: true,            showlrc: false,            music: {              title: "Happy Birthday",              author: "群星",              url: "/music/happy birthday.mp3",              pic: "/images/happy birthday_2.jpg",              lrc: ""            }          });          window.aplayers || (window.aplayers = []);          window.aplayers.push(ap);        </script><p>落俗虽不可避免，但浪漫至死不渝，祝宁永远十八岁！</p><p>PS：盗图虽然可耻，但你能拿我怎样（溜了溜了</p>]]></content>
+    
+    
+    <summary type="html">&lt;p&gt;确定不点开看看ma  &lt;/p&gt;</summary>
+    
+    
+    
+    <category term="她" scheme="https://qinghaihuang.github.io/categories/%E5%A5%B9/"/>
+    
+    
+    <category term="美少女" scheme="https://qinghaihuang.github.io/tags/%E7%BE%8E%E5%B0%91%E5%A5%B3/"/>
+    
+    <category term="干饭人" scheme="https://qinghaihuang.github.io/tags/%E5%B9%B2%E9%A5%AD%E4%BA%BA/"/>
+    
+    <category term="撸猫狂魔" scheme="https://qinghaihuang.github.io/tags/%E6%92%B8%E7%8C%AB%E7%8B%82%E9%AD%94/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>瀑布流相册demo</title>
+    <link href="https://qinghaihuang.github.io/2021/09/05/gallery%20test/"/>
+    <id>https://qinghaihuang.github.io/2021/09/05/gallery%20test/</id>
+    <published>2021-09-05T10:05:22.963Z</published>
+    <updated>2021-09-05T11:32:06.938Z</updated>
+    
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p><font color=#FFFFFF>我是一行隐藏的小可爱</font></p><span id="more"></span><p><div class="justified-gallery"><div><img alt="1" src="/images/gallery-1.jpg" data-src="/images/gallery-1.jpg" data-fancybox="gallery"></div><div><img alt="1" src="/images/gallery-2.jpg" data-src="/images/gallery-2.jpg" data-fancybox="gallery"></div><div><img alt="1" src="/images/gallery-3.jpg" data-src="/images/gallery-3.jpg" data-fancybox="gallery"></div><div><img alt="1" src="/images/gallery-4.jpg" data-src="/images/gallery-4.jpg" data-fancybox="gallery"></div><div><img alt="1" src="/images/gallery-5.jpg" data-src="/images/gallery-5.jpg" data-fancybox="gallery"></div><div><img alt="1" src="/images/gallery-6.jpg" data-src="/images/gallery-6.jpg" data-fancybox="gallery"></div><div><img alt="1" src="/images/gallery-7.jpg" data-src="/images/gallery-7.jpg" data-fancybox="gallery"></div><div><img alt="1" src="/images/gallery-8.jpg" data-src="/images/gallery-8.jpg" data-fancybox="gallery"></div><div><img alt="1" src="/images/gallery-9.jpg" data-src="/images/gallery-9.jpg" data-fancybox="gallery"></div><div><img alt="1" src="/images/gallery-10.jpg" data-src="/images/gallery-10.jpg" data-fancybox="gallery"></div><div><img alt="1" src="/images/gallery-12.jpg" data-src="/images/gallery-12.jpg" data-fancybox="gallery"></div><div><img alt="1" src="/images/gallery-13.jpg" data-src="/images/gallery-13.jpg" data-fancybox="gallery"></div><div><img alt="1" src="/images/gallery-14.jpg" data-src="/images/gallery-14.jpg" data-fancybox="gallery"></div><div><img alt="1" src="/images/gallery-15.jpg" data-src="/images/gallery-15.jpg" data-fancybox="gallery"></div></p>            </div></p>]]></content>
+    
+    
+    <summary type="html">&lt;p&gt;&lt;font color=#FFFFFF&gt;我是一行隐藏的小可爱&lt;/font&gt;&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="图片" scheme="https://qinghaihuang.github.io/categories/%E5%9B%BE%E7%89%87/"/>
+    
+    
+    <category term="壁纸" scheme="https://qinghaihuang.github.io/tags/%E5%A3%81%E7%BA%B8/"/>
+    
+  </entry>
   
   <entry>
     <title>We Are!</title>
@@ -45,15 +91,12 @@
     <link href="https://qinghaihuang.github.io/2021/03/14/n2_test/"/>
     <id>https://qinghaihuang.github.io/2021/03/14/n2_test/</id>
     <published>2021-03-14T14:30:41.269Z</published>
-    <updated>2021-09-05T09:45:24.587Z</updated>
+    <updated>2021-09-05T09:48:48.781Z</updated>
     
-    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><span id="more"></span><h2 id="网上报名安排如下"><a href="#网上报名安排如下" class="headerlink" title="网上报名安排如下"></a>网上报名安排如下</h2><p><a href="https://imgtu.com/i/6BECan"><img src="https://s3.ax1x.com/2021/03/14/6BECan.png" alt="6BECan.png"></a></p><p>考试流程以及时间  </p><ul><li>文字・文法+読解 105分钟  </li><li>聴解 50分钟</li></ul><p>皆さん、一緒にお戦いがんばんりましょう＾_＾　　</p><h2 id="真题摸底考试测试数据一览※保持更新"><a href="#真题摸底考试测试数据一览※保持更新" class="headerlink" title="真题摸底考试测试数据一览※保持更新"></a>真题摸底考试测试数据一览※保持更新</h2><table><thead><tr><th align="left">回目</th><th align="left">試験日付</th><th align="left">文字</th><th align="left">読解</th><th align="left">聴解</th><th align="left">採点</th><th align="left">試験時間</th></tr></thead><tbody><tr><td align="left">一回目</td><td align="left">2021/3/13</td><td align="left">31/54</td><td align="left">14/21</td><td align="left">15/32</td><td align="left">102点／180点</td><td align="left">2h17min</td></tr><tr><td align="left">二回目</td><td align="left">2021/3/20</td><td align="left">35/54</td><td align="left">11/21</td><td align="left">17/32</td><td align="left">102点／180点</td><td align="left">2h11min</td></tr><tr><td align="left">三回目</td><td align="left">2020/3/27</td><td align="left">30/53</td><td align="left">10/21</td><td align="left">14/32</td><td align="left">86点／180点</td><td align="left">2h27min</td></tr></tbody></table><p>※做对题数/总题数  </p>]]></content>
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h2 id="网上报名安排如下图"><a href="#网上报名安排如下图" class="headerlink" title="网上报名安排如下图"></a>网上报名安排如下图</h2><span id="more"></span><p><a href="https://imgtu.com/i/6BECan"><img src="https://s3.ax1x.com/2021/03/14/6BECan.png" alt="6BECan.png"></a></p><p>考试流程以及时间  </p><ul><li>文字・文法+読解 105分钟  </li><li>聴解 50分钟</li></ul><p>皆さん、一緒にお戦いがんばんりましょう＾_＾　　</p><h2 id="真题摸底考试测试数据一览※保持更新"><a href="#真题摸底考试测试数据一览※保持更新" class="headerlink" title="真题摸底考试测试数据一览※保持更新"></a>真题摸底考试测试数据一览※保持更新</h2><table><thead><tr><th align="left">回目</th><th align="left">試験日付</th><th align="left">文字</th><th align="left">読解</th><th align="left">聴解</th><th align="left">採点</th><th align="left">試験時間</th></tr></thead><tbody><tr><td align="left">一回目</td><td align="left">2021/3/13</td><td align="left">31/54</td><td align="left">14/21</td><td align="left">15/32</td><td align="left">102点／180点</td><td align="left">2h17min</td></tr><tr><td align="left">二回目</td><td align="left">2021/3/20</td><td align="left">35/54</td><td align="left">11/21</td><td align="left">17/32</td><td align="left">102点／180点</td><td align="left">2h11min</td></tr><tr><td align="left">三回目</td><td align="left">2020/3/27</td><td align="left">30/53</td><td align="left">10/21</td><td align="left">14/32</td><td align="left">86点／180点</td><td align="left">2h27min</td></tr></tbody></table><p>※做对题数/总题数  </p>]]></content>
     
     
-      
-      
-    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot; cla</summary>
-      
+    <summary type="html">&lt;h2 id=&quot;网上报名安排如下图&quot;&gt;&lt;a href=&quot;#网上报名安排如下图&quot; class=&quot;headerlink&quot; title=&quot;网上报名安排如下图&quot;&gt;&lt;/a&gt;网上报名安排如下图&lt;/h2&gt;</summary>
     
     
     
@@ -103,15 +146,12 @@
     <link href="https://qinghaihuang.github.io/2020/06/04/%E5%90%9F%E6%B8%B8%E8%AF%97%E4%BA%BA-%E9%99%88%E5%A5%95%E8%BF%85/"/>
     <id>https://qinghaihuang.github.io/2020/06/04/%E5%90%9F%E6%B8%B8%E8%AF%97%E4%BA%BA-%E9%99%88%E5%A5%95%E8%BF%85/</id>
     <published>2020-06-04T14:24:54.595Z</published>
-    <updated>2021-09-05T09:09:03.082Z</updated>
+    <updated>2021-09-05T11:32:18.826Z</updated>
     
-    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><span id="more"></span>        <div id="aplayer-xlkRxZCO" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">            <pre class="aplayer-lrc-content"></pre>        </div>        <script>          var ap = new APlayer({            element: document.getElementById("aplayer-xlkRxZCO"),            narrow: false,            autoplay: true,            showlrc: false,            music: {              title: "吟游诗人",              author: "陈奕迅",              url: "/music/吟游诗人-陈奕迅.mp3",              pic: "/images/吟游诗人-陈奕迅.jpg",              lrc: ""            }          });          window.aplayers || (window.aplayers = []);          window.aplayers.push(ap);        </script><p>沉默的夜太黑 闭上眼睛画面浮现怎么睡<br>月光不敌雨水 数着绵羊都可以流眼泪<br>镜子里面是谁 是敢于冒险的玫瑰<br>把书本打开翻到某一回 出走一回</p><p>深蓝的天很美 到处飘着鲜花芬芳的香味<br>心旷神怡滋味自己终于可以真切体会<br>陪伴着我有谁 有吟游诗人的贴心安慰<br>不愁寂寞的我就不需要 后退  </p><p>你喜欢不停游走 到不同地方演奏<br>我喜欢拖你的手 幻想天长地久<br>故事尽头 总有告别的时候<br>千言万语上心头 却又怎么开口  </p><p>还记得 你说世界美好事情真的特别多<br>只是很容易擦肩而过<br>无论是星星的闪烁 快乐的生活<br>都要主动伸出双手去掌握<br>勇敢的去表达过至少视野更开阔<br>理直气壮很大声的说<br>无论是一刻的软弱 还是懦弱<br>都可以去挣脱<br>只不过回到现实一切都变得冷漠</p><p>你喜欢不停游走 到不同地方演奏<br>我喜欢拖你的手 幻想天长地久<br>故事尽头 总有告别的时候<br>千言万语上心头 却又怎么开口</p><p>还记得 你说世界美好事情真的特别多<br>只是很容易擦肩而过<br>无论是星星的闪烁 快乐的生活<br>都要主动伸出双手去掌握<br>勇敢的去表达过至少视野更开阔<br>理直气壮很大声的说<br>无论是一刻的软弱 还是懦弱<br>都可以去挣脱<br>只不过回到现实一切都变得冷漠  </p><p>还记得 你说世界美好事情真的特别多<br>只是很容易擦肩而过<br>无论是星星的闪烁 快乐的生活<br>都要主动伸出双手去掌握<br>勇敢的去表达过至少视野更开阔<br>理直气壮很大声的说<br>无论是一刻的软弱 还是懦弱<br>都可以去挣脱<br>只不过回到现实一切都变得冷漠</p>]]></content>
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p><font color=#FFFFFF>我是一行隐藏的小可爱</font></p><span id="more"></span>        <div id="aplayer-WkZYjdEr" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">            <pre class="aplayer-lrc-content"></pre>        </div>        <script>          var ap = new APlayer({            element: document.getElementById("aplayer-WkZYjdEr"),            narrow: false,            autoplay: true,            showlrc: false,            music: {              title: "吟游诗人",              author: "陈奕迅",              url: "/music/吟游诗人-陈奕迅.mp3",              pic: "/images/吟游诗人-陈奕迅.jpg",              lrc: ""            }          });          window.aplayers || (window.aplayers = []);          window.aplayers.push(ap);        </script><p>沉默的夜太黑 闭上眼睛画面浮现怎么睡<br>月光不敌雨水 数着绵羊都可以流眼泪<br>镜子里面是谁 是敢于冒险的玫瑰<br>把书本打开翻到某一回 出走一回</p><p>深蓝的天很美 到处飘着鲜花芬芳的香味<br>心旷神怡滋味自己终于可以真切体会<br>陪伴着我有谁 有吟游诗人的贴心安慰<br>不愁寂寞的我就不需要 后退  </p><p>你喜欢不停游走 到不同地方演奏<br>我喜欢拖你的手 幻想天长地久<br>故事尽头 总有告别的时候<br>千言万语上心头 却又怎么开口  </p><p>还记得 你说世界美好事情真的特别多<br>只是很容易擦肩而过<br>无论是星星的闪烁 快乐的生活<br>都要主动伸出双手去掌握<br>勇敢的去表达过至少视野更开阔<br>理直气壮很大声的说<br>无论是一刻的软弱 还是懦弱<br>都可以去挣脱<br>只不过回到现实一切都变得冷漠</p><p>你喜欢不停游走 到不同地方演奏<br>我喜欢拖你的手 幻想天长地久<br>故事尽头 总有告别的时候<br>千言万语上心头 却又怎么开口</p><p>还记得 你说世界美好事情真的特别多<br>只是很容易擦肩而过<br>无论是星星的闪烁 快乐的生活<br>都要主动伸出双手去掌握<br>勇敢的去表达过至少视野更开阔<br>理直气壮很大声的说<br>无论是一刻的软弱 还是懦弱<br>都可以去挣脱<br>只不过回到现实一切都变得冷漠  </p><p>还记得 你说世界美好事情真的特别多<br>只是很容易擦肩而过<br>无论是星星的闪烁 快乐的生活<br>都要主动伸出双手去掌握<br>勇敢的去表达过至少视野更开阔<br>理直气壮很大声的说<br>无论是一刻的软弱 还是懦弱<br>都可以去挣脱<br>只不过回到现实一切都变得冷漠</p>]]></content>
     
     
-      
-      
-    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot; cla</summary>
-      
+    <summary type="html">&lt;p&gt;&lt;font color=#FFFFFF&gt;我是一行隐藏的小可爱&lt;/font&gt;&lt;/p&gt;</summary>
     
     
     
@@ -123,19 +163,16 @@
   </entry>
   
   <entry>
-    <title>杰克船长的黑珍珠号起航啦，快上船!</title>
+    <title>杰克回来了</title>
     <link href="https://qinghaihuang.github.io/2017/06/09/firstBlog/"/>
     <id>https://qinghaihuang.github.io/2017/06/09/firstBlog/</id>
     <published>2017-06-09T11:23:40.000Z</published>
-    <updated>2021-09-05T09:07:10.784Z</updated>
+    <updated>2021-09-05T10:02:43.823Z</updated>
     
-    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><span id="more"></span><h3 id="名字来源"><a href="#名字来源" class="headerlink" title="名字来源"></a>名字来源</h3><p>这个不用多说了，加海迷应该都知道，<a href="https://movie.douban.com/subject/1298070/">《加勒比海盗:黑珍珠的诅咒》</a>是杰克船长成为万人迷的开篇作.<br><img src="https://s2.ax1x.com/2020/03/09/89L7uV.jpg" alt="89L7uV.jpg"><br>最近恰逢<a href="https://movie.douban.com/subject/6311303/">《加勒比海盗5：死无对证》</a>上映(本人非剧透狗)，加上最近发现的Hexo+NexT新天地，心血来潮，决定以该博客平台为基础，搭建一个有本船长个人特色 的博客空间<br>，请查看<a href="https://qinghai_huang.coding.me/qinghaihuang.coding.net/2017/06/09/hexo-building/#more">本博客详细搭建过程</a>.</p><h2 id="回看加勒比海盗：黑珍珠的诅咒"><a href="#回看加勒比海盗：黑珍珠的诅咒" class="headerlink" title="回看加勒比海盗：黑珍珠的诅咒"></a>回看加勒比海盗：黑珍珠的诅咒</h2><h3 id="第一次看"><a href="#第一次看" class="headerlink" title="第一次看"></a>第一次看</h3><p>我还记得第一次看是在初中那会电影频道看到的，别问本船长为什么没在电影院看（2003年那会儿我刚上小学）<br><img src="https://s2.ax1x.com/2020/03/09/89L49s.jpg" alt="89L49s.jpg"><br>那时候胆子还比较小，都不敢一个人看月光下的sangshi呵呵<br><img src="https://s2.ax1x.com/2020/03/09/89L53n.jpg" alt="89L53n.jpg"><br>丧尸猴了解一下，qin<br><img src="https://s2.ax1x.com/2020/03/09/89LIcq.jpg" alt="89LIcq.jpg"><br>当时自己看的时候情形…<br><img src="https://s2.ax1x.com/2020/03/09/89vjZ6.gif" alt="89vjZ6.gif"></p><h3 id="回看心情"><a href="#回看心情" class="headerlink" title="回看心情"></a>回看心情</h3><p>那当然是无比激动啊！！！情怀满满<br>像小麻雀，不对是船长致敬！！！<br><img src="https://s2.ax1x.com/2020/03/09/89LcB8.jpg" alt="89LcB8.jpg"><br>最后本船长像你扔了一只猴子，，，<br><img src="https://s2.ax1x.com/2020/03/09/89v5IU.gif" alt="89v5IU.gif"></p>]]></content>
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>老伙计们，黑珍珠号起航啦，快上船!</p><span id="more"></span><h3 id="名字来源"><a href="#名字来源" class="headerlink" title="名字来源"></a>名字来源</h3><p>这个不用多说了，加海迷应该都知道，<a href="https://movie.douban.com/subject/1298070/">《加勒比海盗:黑珍珠的诅咒》</a>是杰克船长成为万人迷的开篇作.<br><img src="https://s2.ax1x.com/2020/03/09/89L7uV.jpg" alt="89L7uV.jpg"><br>最近恰逢<a href="https://movie.douban.com/subject/6311303/">《加勒比海盗5：死无对证》</a>上映(本人非剧透狗)，加上最近发现的Hexo+NexT新天地，心血来潮，决定以该博客平台为基础，搭建一个有本船长个人特色 的博客空间<br>，请查看<a href="https://qinghai_huang.coding.me/qinghaihuang.coding.net/2017/06/09/hexo-building/#more">本博客详细搭建过程</a>.</p><h2 id="回看加勒比海盗：黑珍珠的诅咒"><a href="#回看加勒比海盗：黑珍珠的诅咒" class="headerlink" title="回看加勒比海盗：黑珍珠的诅咒"></a>回看加勒比海盗：黑珍珠的诅咒</h2><h3 id="第一次看"><a href="#第一次看" class="headerlink" title="第一次看"></a>第一次看</h3><p>我还记得第一次看是在初中那会电影频道看到的，别问本船长为什么没在电影院看（2003年那会儿我刚上小学）<br><img src="https://s2.ax1x.com/2020/03/09/89L49s.jpg" alt="89L49s.jpg"><br>那时候胆子还比较小，都不敢一个人看月光下的sangshi呵呵<br><img src="https://s2.ax1x.com/2020/03/09/89L53n.jpg" alt="89L53n.jpg"><br>丧尸猴了解一下，qin<br><img src="https://s2.ax1x.com/2020/03/09/89LIcq.jpg" alt="89LIcq.jpg"><br>当时自己看的时候情形…<br><img src="https://s2.ax1x.com/2020/03/09/89vjZ6.gif" alt="89vjZ6.gif"></p><h3 id="回看心情"><a href="#回看心情" class="headerlink" title="回看心情"></a>回看心情</h3><p>那当然是无比激动啊！！！情怀满满<br>像小麻雀，不对是船长致敬！！！<br><img src="https://s2.ax1x.com/2020/03/09/89LcB8.jpg" alt="89LcB8.jpg"><br>最后本船长像你扔了一只猴子，，，<br><img src="https://s2.ax1x.com/2020/03/09/89v5IU.gif" alt="89v5IU.gif"></p>]]></content>
     
     
-      
-      
-    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot; cla</summary>
-      
+    <summary type="html">&lt;p&gt;老伙计们，黑珍珠号起航啦，快上船!&lt;/p&gt;</summary>
     
     
     
