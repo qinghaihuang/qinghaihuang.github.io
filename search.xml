@@ -166,12 +166,12 @@
     <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p><font color=#FFFFFF>我是一行隐藏的小可爱</font></p>
 <span id="more"></span>
 
-        <div id="aplayer-fcQchvGT" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
+        <div id="aplayer-bPWchMZU" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
             <pre class="aplayer-lrc-content"></pre>
         </div>
         <script>
           var ap = new APlayer({
-            element: document.getElementById("aplayer-fcQchvGT"),
+            element: document.getElementById("aplayer-bPWchMZU"),
             narrow: false,
             autoplay: true,
             showlrc: false,
@@ -179,7 +179,7 @@
               title: "吟游诗人",
               author: "陈奕迅",
               url: "/music/吟游诗人-陈奕迅.mp3",
-              pic: "/images/吟游诗人-陈奕迅.jpg",
+              pic: "/images/吟游诗人_music_avatar.jpeg",
               lrc: ""
             }
           });
