@@ -6,12 +6,12 @@
     <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>确定不点开↑看看ma  </p>
 <span id="more"></span>
 
-        <div id="aplayer-XxyTiwkX" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
+        <div id="aplayer-ZtissvqY" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
             <pre class="aplayer-lrc-content"></pre>
         </div>
         <script>
           var ap = new APlayer({
-            element: document.getElementById("aplayer-XxyTiwkX"),
+            element: document.getElementById("aplayer-ZtissvqY"),
             narrow: false,
             autoplay: true,
             showlrc: false,
@@ -19,15 +19,20 @@
               title: "Happy Birthday",
               author: "群星",
               url: "/music/happy birthday.mp3",
-              pic: "/images/happy birthday_2.jpg",
+              pic: "/images/微信图片_20210914_0.jpg",
               lrc: ""
             }
           });
           window.aplayers || (window.aplayers = []);
           window.aplayers.push(ap);
         </script>
-<p><strong>落俗虽不可避免，浪漫应至死不渝，祝宁永远十八岁!</strong></p>
-<p>PS：盗图虽然可耻，但你能拿我怎样（溜了溜了</p>
+
+<p><strong>2021年9月14日0点0分，因为你，我会记得这一分钟…</strong></p>
+<p><div class="justified-gallery"><div><img alt="1" src="/images/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20210914_1.jpg" data-src="/images/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20210914_1.jpg" data-fancybox="gallery"></div><div><img alt="2" src="/images/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20210914_2.jpg" data-src="/images/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20210914_2.jpg" data-fancybox="gallery"></div><div><img alt="3" src="/images/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20210914_3.jpg" data-src="/images/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20210914_3.jpg" data-fancybox="gallery"></div><div><img alt="4" src="/images/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20210914_4.jpg" data-src="/images/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20210914_4.jpg" data-fancybox="gallery"></div><div><img alt="5" src="/images/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20210914_5.jpg" data-src="/images/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20210914_5.jpg" data-fancybox="gallery"></div><div><img alt="6" src="/images/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20210914_6.jpg" data-src="/images/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20210914_6.jpg" data-fancybox="gallery"></div><div><img alt="7" src="/images/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20210914_7.jpg" data-src="/images/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20210914_7.jpg" data-fancybox="gallery"></div><div><img alt="8" src="/images/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20210914_8.jpg" data-src="/images/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20210914_8.jpg" data-fancybox="gallery"></div><div><img alt="9" src="/images/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20210914_9.jpg" data-src="/images/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20210914_9.jpg" data-fancybox="gallery"></div><div><img alt="10" src="/images/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20210914_10.jpg" data-src="/images/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20210914_10.jpg" data-fancybox="gallery"></div><div><img alt="11" src="/images/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20210914_11.jpg" data-src="/images/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20210914_11.jpg" data-fancybox="gallery"></div><div><img alt="12" src="/images/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20210914_12.jpg" data-src="/images/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20210914_12.jpg" data-fancybox="gallery"></div><div><img alt="13" src="/images/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20210914_13.jpg" data-src="/images/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20210914_13.jpg" data-fancybox="gallery"></div><div><img alt="14" src="/images/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20210914_14.jpg" data-src="/images/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20210914_14.jpg" data-fancybox="gallery"></div><div><img alt="15" src="/images/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20210914_15.jpg" data-src="/images/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20210914_15.jpg" data-fancybox="gallery"></div><div><img alt="16" src="/images/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20210914_16.jpg" data-src="/images/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20210914_16.jpg" data-fancybox="gallery"></div><div><img alt="17" src="/images/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20210914_17.jpg" data-src="/images/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20210914_17.jpg" data-fancybox="gallery"></div><div><img alt="18" src="/images/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20210914_18.jpg" data-src="/images/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20210914_18.jpg" data-fancybox="gallery"></div></p>
+
+            </div></p>
+
+<p><strong>落俗虽不可避免，浪漫应至死不渝，祝莉莉酱永远十八岁ya!</strong><br>PS：盗图虽然可耻，但你能拿我怎样（溜了溜了</p>
 ]]></content>
       <categories>
         <category>彼女</category>
