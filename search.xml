@@ -7,20 +7,20 @@
 <span id="more"></span>
 
 
-        <div id="aplayer-yGTFFqCM" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
+        <div id="aplayer-evyKlwIt" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
             <pre class="aplayer-lrc-content"></pre>
         </div>
         <script>
           var ap = new APlayer({
-            element: document.getElementById("aplayer-yGTFFqCM"),
+            element: document.getElementById("aplayer-evyKlwIt"),
             narrow: false,
             autoplay: true,
             showlrc: false,
             music: {
-              title: "DARK SOULS Ⅲ",
-              author: "北村友香,東京混声合唱団",
-              url: "/music/北村友香,東京混声合唱団 - DARK SOULS Ⅲ.mp3",
-              pic: "/images/elden_ring_music.jpeg",
+              title: "The Flame of Ambition",
+              author: "Alex Roe",
+              url: "/music/The Flame of Ambition.mp3",
+              pic: "/images/elden_ring_1.png",
               lrc: ""
             }
           });
@@ -28,7 +28,7 @@
           window.aplayers.push(ap);
         </script>
 
-<p><div class="justified-gallery"><a href="https://imgtu.com/i/I54Ctg"><div><img alt="I54Ctg.jpg" src="https://z3.ax1x.com/2021/11/17/I54Ctg.jpg" data-src="https://z3.ax1x.com/2021/11/17/I54Ctg.jpg" data-fancybox="gallery"></div></a><a href="https://imgtu.com/i/I54Fpj"><div><img alt="I54Fpj.jpg" src="https://z3.ax1x.com/2021/11/17/I54Fpj.jpg" data-src="https://z3.ax1x.com/2021/11/17/I54Fpj.jpg" data-fancybox="gallery"></div></a><a href="https://imgtu.com/i/I5hbfH"><div><img alt="I5hbfH.jpg" src="https://z3.ax1x.com/2021/11/17/I5hbfH.jpg" data-src="https://z3.ax1x.com/2021/11/17/I5hbfH.jpg" data-fancybox="gallery"></div></a><a href="https://imgtu.com/i/I5hO1A"><div><img alt="I5hO1A.jpg" src="https://z3.ax1x.com/2021/11/17/I5hO1A.jpg" data-src="https://z3.ax1x.com/2021/11/17/I5hO1A.jpg" data-fancybox="gallery"></div></a><a href="https://imgtu.com/i/I5hHte"><div><img alt="I5hHte.jpg" src="https://z3.ax1x.com/2021/11/17/I5hHte.jpg" data-src="https://z3.ax1x.com/2021/11/17/I5hHte.jpg" data-fancybox="gallery"></div></a><a href="https://imgtu.com/i/I5h7kD"><div><img alt="I5h7kD.jpg" src="https://z3.ax1x.com/2021/11/17/I5h7kD.jpg" data-src="https://z3.ax1x.com/2021/11/17/I5h7kD.jpg" data-fancybox="gallery"></div></a><a href="https://imgtu.com/i/I5hjXt"><div><img alt="I5hjXt.jpg" src="https://z3.ax1x.com/2021/11/17/I5hjXt.jpg" data-src="https://z3.ax1x.com/2021/11/17/I5hjXt.jpg" data-fancybox="gallery"></div></a><a href="https://imgtu.com/i/I5hxnP"><div><img alt="I5hxnP.jpg" src="https://z3.ax1x.com/2021/11/17/I5hxnP.jpg" data-src="https://z3.ax1x.com/2021/11/17/I5hxnP.jpg" data-fancybox="gallery"></div></a><a href="https://imgtu.com/i/I54S78"><div><img alt="I54S78.jpg" src="https://z3.ax1x.com/2021/11/17/I54S78.jpg" data-src="https://z3.ax1x.com/2021/11/17/I54S78.jpg" data-fancybox="gallery"></div></a><a href="https://imgtu.com/i/I5hz0f"><div><img alt="I5hz0f.jpg" src="https://z3.ax1x.com/2021/11/17/I5hz0f.jpg" data-src="https://z3.ax1x.com/2021/11/17/I5hz0f.jpg" data-fancybox="gallery"></div></a></p>
+<p><div class="justified-gallery"><div><img alt="1" src="/images/elden_ring_1.png" data-src="/images/elden_ring_1.png" data-fancybox="gallery"></div><div><img alt="1" src="/images/elden_ring_13.png" data-src="/images/elden_ring_13.png" data-fancybox="gallery"></div><div><img alt="1" src="/images/elden_ring_3.jpg" data-src="/images/elden_ring_3.jpg" data-fancybox="gallery"></div><div><img alt="1" src="/images/elden_ring_4.jpg" data-src="/images/elden_ring_4.jpg" data-fancybox="gallery"></div><div><img alt="1" src="/images/elden_ring_5.jpg" data-src="/images/elden_ring_5.jpg" data-fancybox="gallery"></div><div><img alt="1" src="/images/elden_ring_6.jpg" data-src="/images/elden_ring_6.jpg" data-fancybox="gallery"></div><div><img alt="1" src="/images/elden_ring_7.jpg" data-src="/images/elden_ring_7.jpg" data-fancybox="gallery"></div><div><img alt="1" src="/images/elden_ring_8.jpg" data-src="/images/elden_ring_8.jpg" data-fancybox="gallery"></div><div><img alt="1" src="/images/elden_ring_9.jpg" data-src="/images/elden_ring_9.jpg" data-fancybox="gallery"></div><div><img alt="1" src="/images/elden_ring_10.jpg" data-src="/images/elden_ring_10.jpg" data-fancybox="gallery"></div><div><img alt="1" src="/images/elden_ring_11.jpg" data-src="/images/elden_ring_11.jpg" data-fancybox="gallery"></div><div><img alt="1" src="/images/elden_ring_12.jpg" data-src="/images/elden_ring_12.jpg" data-fancybox="gallery"></div></p>
 
             </div></p>
 ]]></content>
@@ -179,7 +179,7 @@
   </entry>
   <entry>
     <title>瀑布流相册demo</title>
-    <url>/2021/09/05/gallery%20test/</url>
+    <url>/2021/09/05/ztest/</url>
     <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p><font color=#FFFFFF>我是一行隐藏的小可爱</font></p>
 <span id="more"></span>
 
