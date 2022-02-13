@@ -6,7 +6,7 @@
   <link href="https://qinghaihuang.github.io/atom.xml" rel="self"/>
   
   <link href="https://qinghaihuang.github.io/"/>
-  <updated>2022-01-04T13:15:12.739Z</updated>
+  <updated>2022-02-13T15:39:01.686Z</updated>
   <id>https://qinghaihuang.github.io/</id>
   
   <author>
@@ -17,13 +17,36 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>Elden Ring is coming soon</title>
-    <link href="https://qinghaihuang.github.io/2022/02/25/elden_ring/"/>
-    <id>https://qinghaihuang.github.io/2022/02/25/elden_ring/</id>
-    <published>2022-02-24T16:00:00.000Z</published>
-    <updated>2022-01-04T13:15:12.739Z</updated>
+    <title>你好！刘亦菲</title>
+    <link href="https://qinghaihuang.github.io/2022/02/14/0214/"/>
+    <id>https://qinghaihuang.github.io/2022/02/14/0214/</id>
+    <published>2022-02-13T16:00:00.000Z</published>
+    <updated>2022-02-13T15:39:01.686Z</updated>
     
-    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p><font color=#FFFFFF>我是一行隐藏的小可爱</font></p><span id="more"></span>        <div id="aplayer-evyKlwIt" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">            <pre class="aplayer-lrc-content"></pre>        </div>        <script>          var ap = new APlayer({            element: document.getElementById("aplayer-evyKlwIt"),            narrow: false,            autoplay: true,            showlrc: false,            music: {              title: "The Flame of Ambition",              author: "Alex Roe",              url: "/music/The Flame of Ambition.mp3",              pic: "/images/elden_ring_1.png",              lrc: ""            }          });          window.aplayers || (window.aplayers = []);          window.aplayers.push(ap);        </script><p><div class="justified-gallery"><div><img alt="1" src="/images/elden_ring_1.png" data-src="/images/elden_ring_1.png" data-fancybox="gallery"></div><div><img alt="1" src="/images/elden_ring_13.png" data-src="/images/elden_ring_13.png" data-fancybox="gallery"></div><div><img alt="1" src="/images/elden_ring_3.jpg" data-src="/images/elden_ring_3.jpg" data-fancybox="gallery"></div><div><img alt="1" src="/images/elden_ring_4.jpg" data-src="/images/elden_ring_4.jpg" data-fancybox="gallery"></div><div><img alt="1" src="/images/elden_ring_5.jpg" data-src="/images/elden_ring_5.jpg" data-fancybox="gallery"></div><div><img alt="1" src="/images/elden_ring_6.jpg" data-src="/images/elden_ring_6.jpg" data-fancybox="gallery"></div><div><img alt="1" src="/images/elden_ring_7.jpg" data-src="/images/elden_ring_7.jpg" data-fancybox="gallery"></div><div><img alt="1" src="/images/elden_ring_8.jpg" data-src="/images/elden_ring_8.jpg" data-fancybox="gallery"></div><div><img alt="1" src="/images/elden_ring_9.jpg" data-src="/images/elden_ring_9.jpg" data-fancybox="gallery"></div><div><img alt="1" src="/images/elden_ring_10.jpg" data-src="/images/elden_ring_10.jpg" data-fancybox="gallery"></div><div><img alt="1" src="/images/elden_ring_11.jpg" data-src="/images/elden_ring_11.jpg" data-fancybox="gallery"></div><div><img alt="1" src="/images/elden_ring_12.jpg" data-src="/images/elden_ring_12.jpg" data-fancybox="gallery"></div></p>            </div></p>]]></content>
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><h3 id="不知道该说什么，都在歌单里了"><a href="#不知道该说什么，都在歌单里了" class="headerlink" title="不知道该说什么，都在歌单里了"></a>不知道该说什么，都在<a href="https://music.163.com/#/playlist?id=574193433">歌单</a>里了</h3><span id="more"></span><!-- Simple example (id, server, type)  --><!--    <div id="aplayer-hlskhiXR" class="aplayer aplayer-tag-marker meting-tag-marker"         data-id="60198" data-server="netease" data-type="playlist" data-mode="circulation" data-autoplay="false" data-mutex="true" data-listmaxheight="340px" data-preload="auto" data-theme="#ad7a86"    ></div>--><!-- Advanced example -->    <div id="aplayer-MfIKeJkv" class="aplayer aplayer-tag-marker meting-tag-marker"         data-id="574193433" data-server="netease" data-type="playlist" data-mode="circulation" data-autoplay="true" data-mutex="false" data-listmaxheight="340px" data-preload="none" data-theme="#ad7a86" data-order="random"    ></div>]]></content>
+    
+    
+    <summary type="html">&lt;h3 id=&quot;不知道该说什么，都在歌单里了&quot;&gt;&lt;a href=&quot;#不知道该说什么，都在歌单里了&quot; class=&quot;headerlink&quot; title=&quot;不知道该说什么，都在歌单里了&quot;&gt;&lt;/a&gt;不知道该说什么，都在&lt;a href=&quot;https://music.163.com/#/playlist?id=574193433&quot;&gt;歌单&lt;/a&gt;里了&lt;/h3&gt;</summary>
+    
+    
+    
+    <category term="彼女" scheme="https://qinghaihuang.github.io/categories/%E5%BD%BC%E5%A5%B3/"/>
+    
+    
+    <category term="干饭人" scheme="https://qinghaihuang.github.io/tags/%E5%B9%B2%E9%A5%AD%E4%BA%BA/"/>
+    
+    <category term="刘亦菲" scheme="https://qinghaihuang.github.io/tags/%E5%88%98%E4%BA%A6%E8%8F%B2/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Elden Ring is coming soon</title>
+    <link href="https://qinghaihuang.github.io/2022/02/01/elden_ring/"/>
+    <id>https://qinghaihuang.github.io/2022/02/01/elden_ring/</id>
+    <published>2022-01-31T16:00:00.000Z</published>
+    <updated>2022-02-13T13:43:48.656Z</updated>
+    
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><p><font color=#FFFFFF>我是一行隐藏的小可爱</font></p><span id="more"></span>        <div id="aplayer-SaaXVcNG" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">            <pre class="aplayer-lrc-content"></pre>        </div>        <script>          var ap = new APlayer({            element: document.getElementById("aplayer-SaaXVcNG"),            narrow: false,            autoplay: true,            showlrc: false,            music: {              title: "The Flame of Ambition",              author: "Alex Roe",              url: "/music/The Flame of Ambition.mp3",              pic: "/images/elden_ring_1.png",              lrc: ""            }          });          window.aplayers || (window.aplayers = []);          window.aplayers.push(ap);        </script><p><div class="justified-gallery"><div><img alt="1" src="/images/elden_ring_1.png" data-src="/images/elden_ring_1.png" data-fancybox="gallery"></div><div><img alt="1" src="/images/elden_ring_13.png" data-src="/images/elden_ring_13.png" data-fancybox="gallery"></div><div><img alt="1" src="/images/elden_ring_3.jpg" data-src="/images/elden_ring_3.jpg" data-fancybox="gallery"></div><div><img alt="1" src="/images/elden_ring_4.jpg" data-src="/images/elden_ring_4.jpg" data-fancybox="gallery"></div><div><img alt="1" src="/images/elden_ring_5.jpg" data-src="/images/elden_ring_5.jpg" data-fancybox="gallery"></div><div><img alt="1" src="/images/elden_ring_6.jpg" data-src="/images/elden_ring_6.jpg" data-fancybox="gallery"></div><div><img alt="1" src="/images/elden_ring_7.jpg" data-src="/images/elden_ring_7.jpg" data-fancybox="gallery"></div><div><img alt="1" src="/images/elden_ring_8.jpg" data-src="/images/elden_ring_8.jpg" data-fancybox="gallery"></div><div><img alt="1" src="/images/elden_ring_9.jpg" data-src="/images/elden_ring_9.jpg" data-fancybox="gallery"></div><div><img alt="1" src="/images/elden_ring_10.jpg" data-src="/images/elden_ring_10.jpg" data-fancybox="gallery"></div><div><img alt="1" src="/images/elden_ring_11.jpg" data-src="/images/elden_ring_11.jpg" data-fancybox="gallery"></div><div><img alt="1" src="/images/elden_ring_12.jpg" data-src="/images/elden_ring_12.jpg" data-fancybox="gallery"></div></p>            </div></p>]]></content>
     
     
     <summary type="html">&lt;p&gt;&lt;font color=#FFFFFF&gt;我是一行隐藏的小可爱&lt;/font&gt;&lt;/p&gt;</summary>

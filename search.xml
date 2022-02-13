@@ -1,18 +1,43 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>你好！刘亦菲</title>
+    <url>/2022/02/14/0214/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><h3 id="不知道该说什么，都在歌单里了"><a href="#不知道该说什么，都在歌单里了" class="headerlink" title="不知道该说什么，都在歌单里了"></a>不知道该说什么，都在<a href="https://music.163.com/#/playlist?id=574193433">歌单</a>里了</h3><span id="more"></span>
+
+<!-- Simple example (id, server, type)  -->
+<!--
+    <div id="aplayer-hlskhiXR" class="aplayer aplayer-tag-marker meting-tag-marker"
+         data-id="60198" data-server="netease" data-type="playlist" data-mode="circulation" data-autoplay="false" data-mutex="true" data-listmaxheight="340px" data-preload="auto" data-theme="#ad7a86"
+    ></div>-->
+
+<!-- Advanced example -->
+
+    <div id="aplayer-MfIKeJkv" class="aplayer aplayer-tag-marker meting-tag-marker"
+         data-id="574193433" data-server="netease" data-type="playlist" data-mode="circulation" data-autoplay="true" data-mutex="false" data-listmaxheight="340px" data-preload="none" data-theme="#ad7a86" data-order="random"
+    ></div>
+]]></content>
+      <categories>
+        <category>彼女</category>
+      </categories>
+      <tags>
+        <tag>干饭人</tag>
+        <tag>刘亦菲</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>Elden Ring is coming soon</title>
-    <url>/2022/02/25/elden_ring/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p><font color=#FFFFFF>我是一行隐藏的小可爱</font></p>
+    <url>/2022/02/01/elden_ring/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><p><font color=#FFFFFF>我是一行隐藏的小可爱</font></p>
 <span id="more"></span>
 
 
-        <div id="aplayer-evyKlwIt" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
+        <div id="aplayer-SaaXVcNG" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
             <pre class="aplayer-lrc-content"></pre>
         </div>
         <script>
           var ap = new APlayer({
-            element: document.getElementById("aplayer-evyKlwIt"),
+            element: document.getElementById("aplayer-SaaXVcNG"),
             narrow: false,
             autoplay: true,
             showlrc: false,
